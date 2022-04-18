@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='palindromeNumber'/>
+        <page name='romanToInt'/>
+        <page name='longestCommonPrefix'/>
+        <page name='timeConversion'/>
+        <page name='miniMaxSum'/>
+        <page name='plusMinus'/>
+        <page name='lonelyinteger'/>
+        <page name='diagonalDifference'/>
+        <page name='countingSort'/>
+        <page name='caesarCipher'/>
+        <page name='towerBreakers'/>
+        <page name='gridChallenge'/>
+        <page name='superDigit'/>
+    </pages>
+</playground>
