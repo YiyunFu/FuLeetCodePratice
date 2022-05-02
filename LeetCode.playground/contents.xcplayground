@@ -14,5 +14,6 @@
         <page name='towerBreakers'/>
         <page name='gridChallenge'/>
         <page name='superDigit'/>
+        <page name='inorderTraversal'/>
     </pages>
 </playground>
