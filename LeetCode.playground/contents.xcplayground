@@ -15,5 +15,7 @@
         <page name='gridChallenge'/>
         <page name='superDigit'/>
         <page name='inorderTraversal'/>
+        <page name='matchingStrings'/>
+        <page name='flippingBits'/>
     </pages>
 </playground>
