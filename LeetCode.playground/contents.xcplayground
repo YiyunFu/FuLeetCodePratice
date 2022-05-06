@@ -17,5 +17,6 @@
         <page name='inorderTraversal'/>
         <page name='matchingStrings'/>
         <page name='flippingBits'/>
+        <page name='pangrams'/>
     </pages>
 </playground>
