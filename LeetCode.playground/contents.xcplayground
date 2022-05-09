@@ -18,5 +18,6 @@
         <page name='matchingStrings'/>
         <page name='flippingBits'/>
         <page name='pangrams'/>
+        <page name='accessControl'/>
     </pages>
 </playground>
