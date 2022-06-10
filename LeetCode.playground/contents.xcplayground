@@ -21,5 +21,7 @@
         <page name='accessControl'/>
         <page name='raceCondition'/>
         <page name='binaryTree'/>
+        <page name='addBinary'/>
+        <page name='binarySearch'/>
     </pages>
 </playground>
