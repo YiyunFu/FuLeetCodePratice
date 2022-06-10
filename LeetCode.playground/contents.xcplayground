@@ -19,5 +19,7 @@
         <page name='flippingBits'/>
         <page name='pangrams'/>
         <page name='accessControl'/>
+        <page name='raceCondition'/>
+        <page name='binaryTree'/>
     </pages>
 </playground>
