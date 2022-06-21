@@ -26,5 +26,7 @@
         <page name='isSameTree'/>
         <page name='StringReduction'/>
         <page name='ageCounting'/>
+        <page name='isSymmetric'/>
+        <page name='maxDepth'/>
     </pages>
 </playground>
