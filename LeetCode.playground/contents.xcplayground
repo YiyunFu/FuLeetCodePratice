@@ -23,5 +23,8 @@
         <page name='binaryTree'/>
         <page name='addBinary'/>
         <page name='binarySearch'/>
+        <page name='isSameTree'/>
+        <page name='StringReduction'/>
+        <page name='ageCounting'/>
     </pages>
 </playground>
