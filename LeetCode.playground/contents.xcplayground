@@ -28,5 +28,10 @@
         <page name='ageCounting'/>
         <page name='isSymmetric'/>
         <page name='maxDepth'/>
+        <page name='hasCycle'/>
+        <page name='reverseList'/>
+        <page name='isSubSet'/>
+        <page name='recur'/>
+        <page name='quickSort'/>
     </pages>
 </playground>

@@ -51,4 +51,4 @@ func CaesarCipher(_ str: String, _ num: Int) -> String {
 //: [Next](@next)
 
 //caesarCipher(s: "www.abc.xy", k: 87)
-CaesarCipher("Hello", 4)
+CaesarCipher("fuyiyun", 851206)
