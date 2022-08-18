@@ -33,5 +33,8 @@
         <page name='isSubSet'/>
         <page name='recur'/>
         <page name='quickSort'/>
+        <page name='createCache'/>
+        <page name='fizzBuzz'/>
+        <page name='getGroupedAnagrams'/>
     </pages>
 </playground>
