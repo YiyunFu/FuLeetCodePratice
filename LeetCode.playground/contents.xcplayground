@@ -38,5 +38,6 @@
         <page name='getGroupedAnagrams'/>
         <page name='mergeSortedArray'/>
         <page name='twoSum'/>
+        <page name='isPowerOfFour'/>
     </pages>
 </playground>

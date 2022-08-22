@@ -1,14 +1,23 @@
 import Foundation
 func isPalindrome(_ x: Int) -> Bool {
-    let characters: [String] = String(x).map({ String($0) })
-    let half = characters.count/2
-    let char1 = characters[0..<half].joined()
-    let char2 = characters[half..<characters.count].reversed().joined()
-    if (char1.count == char2.count) {
-        return char1 == char2
+    guard x >= 0 else { return false } // 負數一定不是
+    var xCopy = x, reverse = 0
+    while xCopy != 0 { // O(n)
+        let remainder: Int
+        (xCopy, remainder) = xCopy.quotientAndRemainder(dividingBy: 10)
+        reverse *= 10
+        reverse += remainder
+        print("xCopy: \(xCopy), revers: \(reverse)")
     }
-    
-    return char1 == (char2 as NSString).substring(to: char2.count-1)
+    return x == reverse
 }
 
-isPalindrome(121)
+//func isPalindrome(_ x: Int) -> Bool {
+//    return String(x) == String(String(x).reversed())
+//    /// String.init(_ value: T): O(n)
+//    /// reversed: O(1)
+//    /// String.init(_ characters: S): O(n)
+//    /// O(2n+1)
+//}
+
+isPalindrome(123456)
