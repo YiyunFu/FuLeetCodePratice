@@ -39,5 +39,6 @@
         <page name='mergeSortedArray'/>
         <page name='twoSum'/>
         <page name='isPowerOfFour'/>
+        <page name='firstMissingPositive'/>
     </pages>
 </playground>
