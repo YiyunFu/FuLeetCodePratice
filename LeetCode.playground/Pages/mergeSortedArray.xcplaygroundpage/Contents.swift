@@ -1,7 +1,7 @@
 import Foundation
 import Darwin
 
-func merge(_ nums1: [Int], _ m: Int, _ nums2: [Int], _ n: Int) {
+func merge<T: Comparable>(_ nums1: [T], _ m: Int, _ nums2: [T], _ n: Int) {
     var a = nums1
     var b = nums2
     var m = m
