@@ -36,5 +36,7 @@
         <page name='createCache'/>
         <page name='fizzBuzz'/>
         <page name='getGroupedAnagrams'/>
+        <page name='mergeSortedArray'/>
+        <page name='twoSum'/>
     </pages>
 </playground>
