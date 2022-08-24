@@ -40,5 +40,6 @@
         <page name='twoSum'/>
         <page name='isPowerOfFour'/>
         <page name='firstMissingPositive'/>
+        <page name='Valid Parentheses'/>
     </pages>
 </playground>
